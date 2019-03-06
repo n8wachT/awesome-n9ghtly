@@ -8,11 +8,11 @@ awesome by nightLY
 
 ## Contents
 
-- [Section](#section)
+- [bestof](#bestof)
 - [Another Section](#another-section)
 
 
-## Section
+## bestof
 
 About this section. Optional. Keep this short and focus on the list.
 
